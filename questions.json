@@ -1,0 +1,40 @@
+{
+    "id": 2031,
+    "q_date": "2024-03-03",
+    "durationInSecs": 120,
+    "game": {
+        "pic_url": "https://imageurl.jpg/png",
+        "questions": [
+            {
+                "question": "How many red apples in the picture?",
+                "answers":[
+                    "1",
+                    "2",
+                    "3",
+                    "7"
+                ],
+                "corr_ans": 1
+            },
+            {
+                "question": "How many oranges in the picture?",
+                "answers":[
+                    "3",
+                    "8",
+                    "1",
+                    "0"
+                ],
+                "corr_ans": 1
+            },
+            {
+                "question": "how many bananas in the picture?",
+                "answers":[
+                    "4",
+                    "2",
+                    "3",
+                    "1"
+                ],
+                "corr_ans": 4
+            }
+        ]
+    }
+}
