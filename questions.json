@@ -3,7 +3,7 @@
     "q_date": "2024-03-03",
     "durationInSecs": 120,
     "game": {
-        "pic_url": "https://github.com/moatsoliman/projectresources/blob/5c85ff6a3b02475f8d8867bea2da314445ba2f2a/img1920x1080.png?raw=true",
+        "pic_url": "https://github.com/moatsoliman/projectresources/blob/main/img1080x1920.png?raw=true",
         "questions": [
             {
                 "question": "How many red apples in the picture?",
