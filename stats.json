@@ -2,6 +2,7 @@
     "id": 2031,
     "q_date": "2024-03-03",
     "durationInSecs": 120,
+    "topPosition" : 10,
     "game": {
         "pic_url": "https://github.com/moatsoliman/projectresources/blob/main/img1920x1080.png?raw=true",
         "questions": [
