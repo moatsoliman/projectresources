@@ -4,7 +4,7 @@
             "gameState": [
                 [0,1,3], //submitted answers for question 1
                 [0,2] , // submitted answer for question 2. The array should include the actual answers not the position of each answer.
-                [ 3, 4, 5, -1] // in this example, user got 3 wrong answers. The app should inject -1 in the final position to indicate that the user did not answer this question correctly
+                [ 3, 4, 5],
                 [2], // player got the right answer from the first trial
                 [] // If array is empty = player hasn't answer this question yet,
             ],
