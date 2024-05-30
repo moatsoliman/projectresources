@@ -15,7 +15,6 @@
                     "7"
                 ],
                 "corr_ans": 1,
-                "user_ans": 7,
                 "trial_stats":
               [ // The size of this array will be equal to the number of answer choices - 1 which will be equal to how many trials each user gets. If the number of answer choices is only 1 then all users only get 1 trial
                   [500, 300, 100, 5], //First trial - each position represents one of the 4 answer choices. For example in first trial 500 people selected the answer in position 1, 300 people selected answer in position 2
@@ -32,7 +31,6 @@
                     "0"
                 ],
                 "corr_ans": 1,
-                "user_ans": 8,
                 "trial_stats":
               [ // The size of this array will be equal to the number of answer choices - 1 which will be equal to how many trials each user gets. If the number of answer choices is only 1 then all users only get 1 trial
                   [100, 200, 50, 3], //First trial - each position represents one of the 4 answer choices. For example in first trial 500 people selected the answer in position 1, 300 people selected answer in position 2
@@ -49,7 +47,6 @@
                     "1"
                 ],
                 "corr_ans": 4,
-                "user_ans": 4,
                 "trial_stats":
               [ // The size of this array will be equal to the number of answer choices - 1 which will be equal to how many trials each user gets. If the number of answer choices is only 1 then all users only get 1 trial
                   [300, 200, 1, 3], //First trial - each position represents one of the 4 answer choices. For example in first trial 500 people selected the answer in position 1, 300 people selected answer in position 2
