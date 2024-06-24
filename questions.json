@@ -3,37 +3,37 @@
     "q_date": "2024-03-03",
     "durationInSecs": 120,
     "game": {
-        "pic_url": "https://github.com/moatsoliman/projectresources/blob/main/img1920x1080.png?raw=true",
+        "pic_url": "https://raw.githubusercontent.com/moatsoliman/projectresources/main/picture1_920x540.png",
         "questions": [
             {
-                "question": "How many red apples in the picture?",
+                "question": "What time is it in the picture?",
                 "answers":[
-                    "1",
-                    "2",
-                    "3",
-                    "7"
+                    "11:00 am",
+                    "12:15 pm",
+                    "10:12 pm",
+                    "10:30 am"
                 ],
-                "corr_ans": 1
+                "corr_ans": "10:12 pm"
             },
             {
-                "question": "How many oranges in the picture?",
+                "question": "What grade is the person using the desk in?",
                 "answers":[
-                    "3",
-                    "8",
-                    "1",
-                    "0"
+                    "Grade 12",
+                    "Grade 10",
+                    "Sophomores",
+                    "Grade 8"
                 ],
-                "corr_ans": 1
+                "corr_ans": "Grade 10"
             },
             {
-                "question": "how many bananas in the picture?",
+                "question": "What is the desk user's birthdate?",
                 "answers":[
-                    "4",
-                    "2",
-                    "3",
-                    "1"
+                    "July 22",
+                    "Nov 13",
+                    "July 1",
+                    "Oct 24"
                 ],
-                "corr_ans": 4
+                "corr_ans": "July 22"
             }
         ]
     }
