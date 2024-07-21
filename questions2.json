@@ -3,37 +3,37 @@
     "q_date": "2024-03-04",
     "durationInSecs": 60,
     "game": {
-        "pic_url": "https://raw.githubusercontent.com/moatsoliman/projectresources/main/picture1_920x540.jpg",
+        "pic_url": "https://raw.githubusercontent.com/moatsoliman/projectresources/main/Frame%201.png",
         "questions": [
             {
-                "question": "What time is it in the picture?",
+                "question": "What's the waiter's name?",
                 "answers":[
-                    "11:00 am",
-                    "12:15 pm",
-                    "10:12 pm",
-                    "10:30 am"
+                    "Jim",
+                    "Mike",
+                    "Jack",
+                    "Adam"
                 ],
-                "corr_ans": "10:12 pm"
+                "corr_ans": "Jack"
             },
             {
-                "question": "What grade is the person using the desk in?",
+                "question": "How many guests are in the cafe?",
                 "answers":[
-                    "Grade 12",
-                    "Grade 10",
-                    "Sophomores",
-                    "Grade 8"
+                    "7",
+                    "6",
+                    "4",
+                    "9"
                 ],
-                "corr_ans": "Grade 10"
+                "corr_ans": "7"
             },
             {
-                "question": "What is the desk user's birthdate?",
+                "question": "How is the lady paying at the cashier?",
                 "answers":[
-                    "July 22",
-                    "Nov 13",
-                    "July 1",
-                    "Oct 24"
+                    "American Express",
+                    "Cash",
+                    "VISA",
+                    "Mastercard"
                 ],
-                "corr_ans": "July 22"
+                "corr_ans": "Mastercard"
             }
         ]
     }
